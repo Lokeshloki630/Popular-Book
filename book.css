@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.big-containerhome {
+  width: 100vw;
+  height: 100vh;
+  background-color: #1b1b1b;
+  padding: 20px;
+}
+
+.first-box {
+  background-color: #e6f6ff;
+  border-radius: 10px;
+  height: 27vh;
+}
+
+.second-box {
+  border-radius: 10px;
+  height: 25vh;
+  margin-bottom: 10px;
+}
+
+.imgxx {
+  height: 27vh;
+}
+
+.imgxx1 {
+  height: 25vh;
+}
+
+.main-container {
+  padding: 20px;
+}
+
+.h12 {
+  color: #ffffff;
+  font-family: "bree serif";
+  font-size: 35px;
+}
+
+.mainh123 {
+  color: #183b56;
+  font-family: "bree serif";
+  font-size: 18px;
+}
+
+.mainp12 {
+  color: black;
+  font-weight: 400;
+  font-family: "bree serif";
+}
+
+.mainp123 {
+  color: #183b56;
+  font-weight: 400;
+  font-family: "bree serif";
+}
+
+.Recommendedbooks {
+  color: #ffffff;
+  font-family: "bree serif";
+  font-size: 28px;
+  padding: 5px 0px 5px 0px;
+}
+
+.mainh1233 {
+  color: #ffffff;
+  font-family: "bree serif";
+  font-size: 18px;
+}
+
+.mainp122 {
+  color: #ffffff;
+}
+
+.mainp1233 {
+  color: #ffffff;
+  font-family: "bree serif";
+  font-size: 13px;
+}
+
+.big-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #1b1b1b;
+}
+
+.img1 {
+  height: 40vh;
+  width: 200px;
+  margin-top: 10px;
+}
+
+.bottom-container {
+  height: 50vh;
+  padding: 10px;
+  margin-top: 0px;
+  width: 500px;
+}
+
+.h1 {
+  color: #ffffff;
+  font-family: "bree serif";
+  text-align: center;
+  font-size: 35px;
+}
+
+.p1 {
+  text-align: center;
+  color: #ffffff;
+  font-family: "bree serif";
+}
+
+.p {
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.button1 {
+  border-radius: 8px;
+  background-color: gold;
+  color: black;
+  height: 40px;
+  width: 80px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.button2 {
+  border-radius: 8px;
+  background-color: blue;
+  color: #ffffff;
+  height: 40px;
+  width: 100px;
+  font-weight: 700;
+  text-align: center;
+  margin-left: 5px;
+}
